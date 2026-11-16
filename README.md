@@ -1,11 +1,11 @@
-<h1 align="center">Welcome to Gregory's Tech World</h1>
+<h1 align="center">Welcome to Gregory's Geospatial Tech World</h1>
 
 - 🖨 print("Hello World")
 - 👋 Hi, I’m Gregory Essuman
-- 🌍 A GIS Specialist
-- 👀 I’m interested in GIS, Data Science, Machine Learning & Software development 
-- 🌱 I’m currently self-learning Data Science. 
-- 💞️ I’m looking to learn, collaborate, learn, collaborate, learn and collaborate. 
+- 🌍 A Geospatial Data Science Researcher
+- 👀 I’m interested in Remote Sensing, GeoAI, GIS & Data Science 
+- 🌱 I’m currently in a PhD Geography program with specialization in GIS and Remote Sensing at Clark University. 
+- 💞️ I’m looking to learn, research and collaborate. 
 - 📫 I can be reached via email: gregory.essuman@gmail.com or Instagram Blog: @gre_geospatialhub
 
 
